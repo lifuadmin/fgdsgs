@@ -17,7 +17,7 @@ public class MyController {
 	@RequestMapping(value="book/1",method=RequestMethod.POST)
 	public String addBook() {
 		System.out.println("添加图书");
-		return "dfasdfadsfads";
+		return "dfasdfadsfddddddads";
 	}
 	/**
 	 * 删除图书的方法
